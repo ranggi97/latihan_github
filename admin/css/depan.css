@@ -1,0 +1,35 @@
+.container{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.border{
+    border: 1px solid #ccc;
+    border-radius: 15px;  
+    box-shadow: 0 0 30px black;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 25px;
+}
+
+.img-logo{
+    width: 30%;
+    height: 50%;
+    display: flex;
+}
+
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
